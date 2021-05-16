@@ -10,12 +10,12 @@ Copyright (c) 2021-     DangerMoon Developers
 What is Dangermoon?
 ----------------
 
-Dangermoon is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Dangermoon is a lite version of Bitcoin using scrypt as a proof-of-work algorithm:
  - 2 minute block targets
  - subsidy halves in 840k blocks (~3.19254186 years)
  - 420 million total coins
 
-The rest is the same as Bitcoin.
+The rest is the same as Bitcoin and LiteCoin:
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 

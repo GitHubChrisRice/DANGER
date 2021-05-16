@@ -1,25 +1,26 @@
 Dangermoon integration/staging tree
 ================================
 
-http://www.dangermoon.org
+http://www.dangermoon.notyet
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Dangermoon Developers
+Copyright (c) 2011-2021 LiteCoin Developers
+Copyright (c) 2021-     DangerMoon Developers
 
 What is Dangermoon?
 ----------------
 
 Dangermoon is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 2 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 420 million total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Dangermoon client sofware, see http://www.dangermoon.org.
+the Dangermoon client sofware, see http://www.dangermoon.notyet.
 
 License
 -------
